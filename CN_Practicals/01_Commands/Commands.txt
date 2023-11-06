@@ -1,0 +1,19 @@
+If on linux:
+	- ifconfig
+	- sudo ping www.google.com
+	- tracerout www.google.com
+	- nslookup
+		> www.google.com
+	- netstat
+	- whois google.com
+	- nmap mu.ac.in
+	- arp
+
+If on windows:
+	- ipconfig
+	- ping www.google.com
+	- tracert www.google.com
+	- nslookup www.google.com
+	- netstat
+	- nmap mu.ac.in
+	- arp -a

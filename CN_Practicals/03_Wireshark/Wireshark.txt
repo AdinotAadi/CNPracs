@@ -1,0 +1,6 @@
+Wireshark:
+	- Open wireshark
+	- Start capturing packets
+	- Go to any site
+	- Stop packet capturing
+	- Analyze packet (source, destination, hlen, checksum, ttl, fin, ack, etc.)

@@ -1,0 +1,17 @@
+Network Design, using IP Addressing, Naming (DNS) and Routing
+- Router:
+	- Router IP Address: 192.168.1.1
+- Workstation PC:
+	- Desktop Computer 1 IP Address: 192.168.1.2
+	- Desktop Computer 2 IP Address: 192.168.1.3
+	- Desktop Computer 3 IP Address: 192.168.1.4
+- Laptop:
+	- Laptop IP Address: 192.168.1.5
+- Smartphone:
+	- Smartphone 1 IP Address: 192.168.1.5
+	- Smartphone 2 IP Address: 192.168.1.6
+	- Smartphone 3 IP Address: 192.168.1.7
+- Printer:
+	- Network Printer IP Address: 192.168.1.8
+- NAS:
+	- NAS IP Address: 192.168.1.9

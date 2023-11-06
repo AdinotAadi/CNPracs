@@ -1,0 +1,14 @@
+NS2 Installation and Hello program
+- Install ns2:
+	- sudo apt update
+	- sudo apt install nam
+	- sudo apt install ns2
+	- sudo apt install tcl
+
+- Create "ns.tcl" file with the contents:
+	$ns [new Simulator]
+	$ns at 1 "puts \"Hello world\""
+	$ns at 2 "exit"
+	$ns run
+
+- Execute using "ns ns.tcl"

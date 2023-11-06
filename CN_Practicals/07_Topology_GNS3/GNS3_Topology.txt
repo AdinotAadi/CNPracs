@@ -1,0 +1,5 @@
+Implementation of topology in GNS3:
+	- Create a topology
+	- Assign IP to source by using “ip 192.168.10.10/24 192.168.10.1”
+	- Assign IP to destination by using “ip 192.168.10.20/24 192.168.10.1”
+	- Ping from source to destination by “ping 192.168.10.20”

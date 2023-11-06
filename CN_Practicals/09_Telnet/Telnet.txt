@@ -1,0 +1,8 @@
+Remote login using telnet:
+- Remote login to a website:
+	- telnet www.telehack.com
+
+- Remote login to a PC:
+	- Find the IP address of teh destination pc using "ipconfig"" on the destination pc
+	- FInd the open ports of the destincation pc using "nmap <ip address of destination>
+	- telnet <ip address of destination> <port number>

@@ -1,0 +1,5 @@
+Nmap:
+	- nmap mu.ac.in
+
+Zenmap:
+	- Write "mu.ac.in" in the "Target" field (top left hand side)
