@@ -65,5 +65,9 @@ $ns at 1.0 "$ftp start"
 $ns at 4.0 "$ftp stop"
 $ns at 4.5 "$cbr stop"
 
+#Print CBR packet size and interval
+puts "CBR packet size = [$cbr set packet_size_]"
+puts "CBR interval = [$cbr set interval_]"
+
 # Run the simulation
 $ns run
